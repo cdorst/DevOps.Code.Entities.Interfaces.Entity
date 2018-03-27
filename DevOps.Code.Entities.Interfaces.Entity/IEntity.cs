@@ -6,10 +6,10 @@ namespace DevOps.Code.Entities.Interfaces.Entity
     /// <summary>Common interface for code-generated entity types</summary>
     public interface IEntity<TKey>
     {
-        /// <summary>Returns the unqiue identifier of the entity type</summary>
+        /// <summary>Returns the unique identifier of the entity type</summary>
         int GetEntityType();
 
-        /// <summary>Returns the unqiue identifier of this entity instance</summary>
+        /// <summary>Returns the unique identifier of this entity instance</summary>
         TKey GetKey();
     }
 }
