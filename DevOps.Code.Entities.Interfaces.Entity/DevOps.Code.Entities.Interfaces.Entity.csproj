@@ -15,7 +15,7 @@
     <PackageLicenseUrl>https://github.com/cdorst/DevOps.Code.Entities.Interfaces.Entity/blob/master/LICENSE</PackageLicenseUrl>
     <PackageProjectUrl>https://github.com/cdorst/DevOps.Code.Entities.Interfaces.Entity</PackageProjectUrl>
     <RepositoryUrl>https://github.com/cdorst/DevOps.Code.Entities.Interfaces.Entity</RepositoryUrl>
-    <Version>1.0.2</Version>
+    <Version>1.0.3</Version>
   </PropertyGroup>
 
 </Project>
