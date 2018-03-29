@@ -4,7 +4,7 @@
 namespace DevOps.Code.Entities.Interfaces.Entity
 {
     /// <summary>Common interface for code-generated entity types</summary>
-    public interface IEntity<TKey>
+    public interface IEntity<TKey> where TKey : struct
     {
         /// <summary>Returns the unique identifier of the entity type</summary>
         int GetEntityType();
